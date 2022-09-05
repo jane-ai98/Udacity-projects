@@ -11,8 +11,8 @@ This project analyzes the result of surveys conducted on tmdb, looking at the po
 
 ### Libraries used
 To complete this project, I used:
-*Jupyter notebook and
-*Exported as HTML file
+* Jupyter notebook and
+* Exported as HTML file
 
 
 
@@ -22,9 +22,9 @@ This project, involves the wrangling of Twitter data from twitter user WeRateDog
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc
 I used three data sets for this project:
 
-−	An enhanced twitter archive data from WeRateDogs
-−	A dog breed image prediction file, and
-−	Additional data gotten from twitter API
+* An enhanced twitter archive data from WeRateDogs
+* A dog breed image prediction file, and
+* Additional data gotten from twitter API
 
 ### The wrangling process
 * Gathering data from the three different sources
